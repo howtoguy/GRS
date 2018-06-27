@@ -9,3 +9,5 @@ Hello World!
 Welcome to Green Roof Solar.
 
 Forestry edit #1
+
+![](/uploads/03taylo-R1-020-8A.jpg)
