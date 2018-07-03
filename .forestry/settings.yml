@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- path: content/locations
+  label: Locations
+  create: all
 - path: content/pages
   label: Pages
   create: all
