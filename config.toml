@@ -2,4 +2,48 @@ baseURL = "https://www.green-roof-solar.com/"
 languageCode = "en-us"
 title = "Green Roof Solar"
 theme = "ananke"
-sectionPagesMenu = "main"
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Locations"
+    url  = "/locations/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
+
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/gmagnamous"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/howtoguy/"
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2

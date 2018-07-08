@@ -1,6 +1,6 @@
 ---
 title: Sebastopol, CA
-date: 2018-07-03 23:06:52 +0000
+date: 2018-07-05T17:01:49-07:00
 
 ---
 Sebastopol, CA
