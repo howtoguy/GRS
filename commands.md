@@ -1,1 +1,1 @@
-hugo new posts/my-first-post.md
+hugo new locations/sebastopol-ca.md
