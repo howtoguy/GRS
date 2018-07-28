@@ -37,7 +37,7 @@ enableRobotsTXT = true
 [params]
   favicon = "images/icon.png"
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/solargreenroof/?modal=admin_todo_tour"
+  facebook = "https://www.facebook.com/solargreenroof"
   twitter = ""
   instagram = ""
   youtube = ""
