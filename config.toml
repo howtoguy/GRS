@@ -35,8 +35,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "images/icon.png"
-  description = "The last theme you'll ever need. Maybe."
+  favicon = "about/images/icon.png"
+  description = "Solar panels prices have fallen 80% in the last few years and utility bills have continued to rise. Install American Made solar panels on your home to save money on your monthly power bills and to help save the environment. Solar energy creation continues to climb. Join the solar revolution now!"
   facebook = "https://www.facebook.com/solargreenroof"
   twitter = ""
   instagram = ""
