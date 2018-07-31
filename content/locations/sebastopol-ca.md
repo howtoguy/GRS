@@ -9,6 +9,6 @@ Sebastopol, in Northern California, is the ancestral home of Green-Roof-Solar.co
 
 My chicken coop has a solar roof! That should give you some idea...
 
-125 S. Main St, Sebastopol, CA 95472
+125 S. Main St. #127, Sebastopol, CA 95472
 
 {{< form-contact action="http://formspree.io/glen@magnamous.com" >}}
