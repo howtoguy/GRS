@@ -1,7 +1,7 @@
 <!-- TODO: Add follow intents where available TODO: Revisit color and hover color -->
 {{ $icon_size := "32px" }}
 {{ with .Param "facebook" }}
-  <a href="{{ . }}" class="link-transition facebook link dib z-999 pt3 pt0-l mr2" title="Facebook link">
+  <a href="{{ . }}" class="link-transition facebook link dib z-999 pt3 pt0-l mr2" title="Facebook link" target="_blank">
     {{ partial "svg/facebook.svg" (dict "size" $icon_size) }}
   </a>
 {{ end }}
@@ -28,5 +28,10 @@
 {{ with .Param "github" }}
   <a href="{{ . }}" class="link-transition github link dib z-999 pt3 pt0-l mr2" title="Github link">
     {{ partial "svg/github.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "yelp" }}
+  <a href="{{ . }}" class="link-transition github link dib z-999 pt3 pt0-l mr2" title="Yelp link" target="_blank">
+    {{ partial "svg/yelp-red.svg" (dict "size" $icon_size) }}
   </a>
 {{ end }}
