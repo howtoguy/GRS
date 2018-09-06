@@ -44,6 +44,7 @@
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
+      <meta name="google-site-verification" content="zu_4LraQnyho29gm3ARtVh7-x67evQL1EIW9OnRf4Ug" />
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
