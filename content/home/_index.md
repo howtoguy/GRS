@@ -16,4 +16,4 @@ The most popular solar roof installation is one that hooks into the main power g
 
 But, for customers of Green Roof Solar in Sebastopol, Petaluma and Santa Rosa, California, one of the biggest benefits of solar installation is getting off the grid and contributing to the well being of Planet Earth. It is possible to create enough electricity from your roof to power all your household electrical needs AND power an electric vehicle or two.
 
-Imagine driving in a car that is powered from the sun! Imagine never going to the gas station again! It is possible. Call Green Roof Solar today.
+Imagine driving in a car that is powered from the sun! Imagine never going to the gas station again! It is possible. Call Green Roof Solar today!
