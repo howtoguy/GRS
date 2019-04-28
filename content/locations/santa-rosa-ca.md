@@ -7,4 +7,12 @@ Santa Rosa, CA
 
 Santa Rosa is the largest city in Sonoma County, California. Perfect for solar!
 
-{{<form-contact action="http://formspree.io/glen@magnamous.com" >}}
+{{<form method="POST" action="[https://formspree.io/glen@magnamous.com](https://formspree.io/glen@magnamous.com "https://formspree.io/glen@magnamous.com")">
+
+  <input type="email" name="email" placeholder="Your email">
+
+  <textarea name="message" placeholder="Test Message"></textarea>
+
+  <button type="submit">Send Test</button>
+
+</form>}}
